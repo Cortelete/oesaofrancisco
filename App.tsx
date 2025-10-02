@@ -277,8 +277,13 @@ Queixa Principal: ${appointmentData.issue}`
                             }}
                             title="Clique em mim!"
                          />
+                        <img 
+                            src="/logo2.png"
+                            alt="Odonto Excellence"
+                            className="h-10 md:h-12 mb-2"
+                        />
                         <h1 className="text-2xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-red-600 to-red-800 animate-gradient">
-                            {CLINIC_NAME}
+                            São Francisco
                         </h1>
                         <p className="text-sm md:text-base text-gray-600 mt-2 h-12 transition-opacity duration-700 ease-in-out">
                             {SUBTITLES[subtitleIndex]}
