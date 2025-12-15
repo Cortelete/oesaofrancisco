@@ -2,7 +2,7 @@ import React from 'react';
 
 export const CLINIC_NAME = "Odonto Excellence São Francisco";
 export const INSTAGRAM_URL = "https://www.instagram.com/odontoexcellence.saofrancisco/";
-export const LOCATION_URL = "https://maps.app.goo.gl/uX3L5tJ1aLwJmY7Q7";
+export const LOCATION_URL = "https://www.google.com/maps/search/?api=1&query=Odonto+Excellence+S%C3%A3o+Francisco&query_place_id=ChIJi_VjTocd6JQRSGmeMAlkUnk";
 export const CLINIC_WHATSAPP_NUMBER = "551131812639";
 export const GOOGLE_REVIEW_URL = "https://search.google.com/local/writereview?placeid=ChIJi_VjTocd6JQRSGmeMAlkUnk";
 export const ADDRESS = "R. Antonil, 100 - São Francisco, Ponta Grossa - PR, 84032-190";
